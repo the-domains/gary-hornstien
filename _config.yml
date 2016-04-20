@@ -1,4 +1,4 @@
-name: Gary Hornstien
+name: Adam Bush
 favicon: null
 layout_spectrum: 0.6888970700092614
 typography_spectrum: 0.8542362547013909
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.006686893291771412
-  lightness: 0.7358209721278399
-  saturation: 0.6439965451136231
-  rhythmicContrast: 0.19668924692086875
+  brandStrength: 0.25
+  lightness: 0.9375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
